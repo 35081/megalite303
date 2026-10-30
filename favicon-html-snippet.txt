@@ -1,0 +1,8 @@
+<!-- Megalite favicon / app icons -->
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/megalite-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/megalite-48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/megalite-96.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/megalite-180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/megalite-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/megalite-512.png">
